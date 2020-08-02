@@ -12,27 +12,20 @@
 
 ### Wireframes
 
-> Use the Wireframes section to display desktop, tablet and mobile views.
-
-![Dummy Link](url)
+![Login/Signup](https://wireframe.cc/eKVI6f)
 
 - Desktop Landing
+- Tablet Landing (flexed by percentage)
 
-![Dummy Link](url)
+![User Home](url)
 
-- Desktop Body
+- User Home
+- Tablet User Home (flexed by percentage)
 
-![Dummy Link](url)
+![Show Focus](url)
 
-- Desktop Resource Index
-
-![Dummy Link](url)
-
-- Desktop Resource Show
-
-![Dummy Link](url)
-
-- Tablet Resource Index
+- Desktop Show Focus
+- Tablet Show Focus (flexed by percentage)
 
 ![Dummy Link](url)
 
