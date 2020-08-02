@@ -101,13 +101,13 @@ tv-viewer-vault
 
 #### Component Breakdown
 
-|  Component   |    Type    | state | props | Description                                                      |
-| :----------: | :--------: | :---: | :---: | :--------------------------------------------------------------- |
-|    Header    | functional |   n   |   n   | _The header will contain the navigation and logo._               |
-|  Navigation  | functional |   n   |   n   | _The navigation will provide a link to each of the pages._       |
-|   Gallery    |   class    |   y   |   n   | _The gallery will render the posts using cards in flexbox._      |
-| Gallery Card | functional |   n   |   y   | _The cards will render the post info via props._                 |
-|    Footer    | functional |   n   |   n   | _The footer will show info about me and a link to my portfolio._ |
+|  Component   |    Type    | state | props | Description                                                  |
+| :----------: | :--------: | :---: | :---: | :----------------------------------------------------------- |
+| Login/Signup | functional |   y   |   n   | validate user interact with .env data object set login state |
+|  Navigation  | functional |   y   |   y   | small components reused to link routes and update state      |
+|   UserHome   | functional |   y   |   y   | will interact with data base and api                         |
+|  Show/Focus  | functional |   n   |   y   | full screen display of all data on one show                  |
+|    Footer    | functional |   n   |   n   | my contact information and link to 3rd party api             |
 
 <br>
 
