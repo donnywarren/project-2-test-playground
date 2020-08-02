@@ -1,32 +1,12 @@
 # PROJECT 2 README <!-- omit in toc -->
 
-- [Project Planning](#Project-Planning)
-  - [Overview](#Overview)
-  - [Wireframes](#Wireframes)
-  - [MVP](#MVP)
-    - [Goals](#Goals)
-    - [Libraries](#Libraries)
-    - [Data](#Data)
-    - [Component Hierarchy](#Component-Hierarchy)
-    - [Component Breakdown](#Component-Breakdown)
-    - [Component Estimates](#Component-Estimates)
-    - [Helper Functions](#Helper-Functions)
-  - [Post-MVP](#Post-MVP)
-- [Project Delivery](#Project-Delivery)
-  - [Code Showcase](#Code-Showcase)
-  - [Code Issues & Resolutions](#Code-Issues--Resolutions)
-
 ## Project Planning
-
-> The Project Planning section should be completed for your project pitch with instructors.
->
-> To ensure correct Markdown, I recommend cloning this wiki and copy/pasting the raw template code.
 
 <br>
 
 ### Overview
 
-_**Project Title** is lorem ipsum dolor sit amet. Phasellus dapibus fermentum risus vitae bibendum. Integer vel ipsum mollis odio sollicitudin ornare eu vel ex. In quis fringilla velit, ac maximus quam. Etiam eget placerat neque. Aenean faucibus sem non nisi lobortis ullamcorper._
+**TV VIEWER VAULT** is an app for users to research their favorite shows, discover new shows and see what's on today. Users will be able to create accounts and save their favorites for quick access. Additionally, they will be about to update their "vault" with news show and delete ohters.
 
 <br>
 
@@ -62,9 +42,7 @@ _**Project Title** is lorem ipsum dolor sit amet. Phasellus dapibus fermentum ri
 
 ### MVP
 
-> The Minimum Viable Product should be a well-planned and easily-communicated product, ensuring that the client's deliverable will be achievable and meet specifications within the time frame estimated.
-
-_The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dapibus fermentum risus vitae bibendum. Integer vel ipsum mollis odio sollicitudin ornare eu vel ex. In quis fringilla velit, ac maximus quam. Etiam eget placerat neque. Aenean faucibus sem non nisi lobortis ullamcorper._
+**TV VAULT VIEWER** MVP lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dapibus fermentum risus vitae bibendum. Integer vel ipsum mollis odio sollicitudin ornare eu vel ex. In quis fringilla velit, ac maximus quam. Etiam eget placerat neque. Aenean faucibus sem non nisi lobortis ullamcorper.\_
 
 <br>
 
