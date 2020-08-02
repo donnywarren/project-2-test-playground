@@ -6,7 +6,7 @@
 
 ### Overview
 
-**TV VIEWER VAULT** is an app for users to research their favorite shows, discover new shows and see what's on today. Users will be able to create accounts and save their favorites for quick access. Additionally, they will be about to update their "vault" with news show and delete ohters.
+**TV VIEWER VAULT** is an app for users to research their favorite shows, discover new shows and see what's on today. Users will be able to create accounts and save their favorites for quick access. Additionally, they will be about to update their "vault" with new shows and delete ohters.
 
 <br>
 
@@ -42,29 +42,27 @@
 
 ### MVP
 
-**TV VAULT VIEWER** MVP lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dapibus fermentum risus vitae bibendum. Integer vel ipsum mollis odio sollicitudin ornare eu vel ex. In quis fringilla velit, ac maximus quam. Etiam eget placerat neque. Aenean faucibus sem non nisi lobortis ullamcorper.\_
+**TV VAULT VIEWER** MVP will include a login/signup welcome page, basic user homepage with functionality to research, save and modify their personal "vault", and there should be a show/focus page to view complete details of a particular show.
 
 <br>
 
 #### Goals
 
-- _Lorem ipsum, dolor sit amet,_
-- _consectetur adipiscing elit._
-- _Phasellus dapibus fermentum risus vitae bibendum._
-- _Integer vel ipsum mollis odio sollicitudin ornare eu vel ex._
-- _etc._
+- successfully validate users
+- successfully structure and save signup data
+- retrieve and display search data
+- full CRUD on "vault" data base for individual user
+- create UI that is intuitive and stylish
+- responsive accross all screen sizes
 
 <br>
 
 #### Libraries
 
-> Use this section to list all supporting libraries and their role in the project.
-
-|     Library      | Description                                |
-| :--------------: | :----------------------------------------- |
-|   React Router   | _Lorem ipsum dolor sit amet, consectetur._ |
-| React SemanticUI | _Lorem ipsum dolor sit amet, consectetur._ |
-|   React Spring   | _Lorem ipsum dolor sit amet, consectetur._ |
+|   Library    | Description                              |
+| :----------: | :--------------------------------------- |
+| React Router | navigate between pages                   |
+|    Axios     | api calls to 3rd party and app resources |
 
 <br>
 
