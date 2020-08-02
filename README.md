@@ -12,7 +12,7 @@
 
 ### Wireframes
 
-![Login/Signup](https://github.com/donnywarren/project-2-test-playground/blob/master/assets/wireframe-login-signup.pdf)
+[Login/Signup](https://wireframe.cc/eKVI6f)
 
 - Desktop Landing
 - Tablet Landing (flexed by percentage)
