@@ -68,29 +68,26 @@
 
 #### Data
 
-> Use the Data Section to define the API(s) you will be consuming for your project, inluding sample URL queries.
-
-|    API     | Quality Docs? | Website       | Sample Query                            |
-| :--------: | :-----------: | :------------ | :-------------------------------------- |
-| WeatherAPI |      yes      | _example.com_ | _example.com/mickeymouse?s=movies&t=10_ |
+|         API         | Quality Docs? | Website                            | Sample Query                                                                                      |
+| :-----------------: | :-----------: | :--------------------------------- | :------------------------------------------------------------------------------------------------ |
+| TheMovieDataBaseAPI |      yes      | https://developers.themoviedb.org/ | https://api.themoviedb.org/3/search/tv?api_key=8d021868bbab84ae4f9d16fdc0645e0c&query=star%20trek |
+|     AirtableAPI     |      yes      | https://airtable.com/api           | https://api.airtable.com/v0/appY8EFNMSYGualIW/Table%201                                           |
 
 <br>
 
 #### Component Hierarchy
 
-> Use this section to define your React components and the data architecture of your app.
-
 ```
 src
 |__ assets/
-      |__ data-tests
-      |__ fonts
+      |__ sample call strings
+      |__ favicon
       |__ graphics
       |__ images
       |__ mockups
 |__ components/
       |__ Header.jsx
-      |__ Hero.jsx
+      |__ .jsx
       |__ Ipsum.jsx
       |__ Lorem.jsx
       |__ CTA.jsx
@@ -115,34 +112,28 @@ src
 
 #### Component Estimates
 
-> Use this section to estimate the time necessary to build out each of the components you've described above.
->
-> Time frames are key to the development cycle. You have limited time to code your app, and your estimates can then be used to evalute possibilities of your MVP and post-MVP based on time needed. It's best you assume an additional hour for each component, as well as a few hours added to the total time, to play it safe.
-
 | Task                | Priority | Estimated Time | Time Invested | Actual Time |
 | ------------------- | :------: | :------------: | :-----------: | :---------: |
-| Add Contact Form    |    L     |     3 hrs      |     2 hrs     |    3 hrs    |
-| Create CRUD Actions |    H     |     3 hrs      |     1 hrs     |     TBD     |
-| TOTAL               |          |     6 hrs      |     3 hrs     |     TBD     |
+| login/signup page   |    H     |     6 hrs      |     0 hrs     |    0 hrs    |
+| user home page      |    H     |     10 hrs     |     0 hrs     |    0 hrs    |
+| set up data base    |    H     |     2 hrs      |     0 hrs     |    0 hrs    |
+| create CRUD actions |    H     |     8 hrs      |     0 hrs     |    0 hrs    |
+| show/focus page     |    H     |     4 hrs      |     0 hrs     |    0 hrs    |
+| CSS styling         |    M     |     4 hrs      |     0 hrs     |    0 hrs    |
+| TOTAL               |          |     34 hrs     |     0 hrs     |    0 hrs    |
 
 <br>
 
 #### Helper Functions
 
-> Use this section to document all helper functions– generic functions that can be reused in other applications.
-
-|  Function  | Description                                |
-| :--------: | :----------------------------------------- |
-| Capitalize | _Lorem ipsum dolor sit amet, consectetur._ |
-
 <br>
 
 ### Post-MVP
 
-> Use this section to document ideas you've had that would be fun (or necessary) for your Post-MVP. This will be helpful when you return to your project after graduation!
-
-- _Add user account and auth capabilities._
-- _Utilize the Giphy API to welcome new users with funny gifs._
+- password/user encryption
+- video panel for locally viewing previews from third party websites
+- social network links to share content
+- calender page to display weekly viewing times
 
 <br>
 
@@ -152,8 +143,4 @@ src
 
 ### Code Showcase
 
-> Use this section to include a brief code snippet of functionality that you are proud of and a brief description.
-
 ### Code Issues & Resolutions
-
-> Use this section to list of all major issues encountered and their resolution, if you'd like.
