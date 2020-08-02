@@ -78,27 +78,28 @@
 #### Component Hierarchy
 
 ```
-src
-|__ assets/
-      |__ sample call strings
-      |__ favicon
-      |__ graphics
-      |__ images
-      |__ mockups
-|__ components/
-      |__ Header.jsx
-      |__ .jsx
-      |__ Ipsum.jsx
-      |__ Lorem.jsx
-      |__ CTA.jsx
-      |__ Footer.jsx
+tv-viewer-vault
+|__ public/
+      |__ favicon.ico
+      |__ index.html
+      |__ manifest.json
+|__ src/
+      |__ App.css
+      |__ App.js
+      |__ Index.css
+      |__ Login.js
+      |__ Userhome.js
+      |__ Showfocus.js
+|__ .env
+|__ .gitignore
+|__ package.json
+|__ package-lock.json
+|__ README.md
 ```
 
 <br>
 
 #### Component Breakdown
-
-> Use this section to go into further depth regarding your components, including breaking down the components as stateless or stateful, and considering the passing of data between those components.
 
 |  Component   |    Type    | state | props | Description                                                      |
 | :----------: | :--------: | :---: | :---: | :--------------------------------------------------------------- |
@@ -115,12 +116,13 @@ src
 | Task                | Priority | Estimated Time | Time Invested | Actual Time |
 | ------------------- | :------: | :------------: | :-----------: | :---------: |
 | login/signup page   |    H     |     6 hrs      |     0 hrs     |    0 hrs    |
-| user home page      |    H     |     10 hrs     |     0 hrs     |    0 hrs    |
+| user home page      |    H     |     8 hrs      |     0 hrs     |    0 hrs    |
 | set up data base    |    H     |     2 hrs      |     0 hrs     |    0 hrs    |
 | create CRUD actions |    H     |     8 hrs      |     0 hrs     |    0 hrs    |
-| show/focus page     |    H     |     4 hrs      |     0 hrs     |    0 hrs    |
-| CSS styling         |    M     |     4 hrs      |     0 hrs     |    0 hrs    |
-| TOTAL               |          |     34 hrs     |     0 hrs     |    0 hrs    |
+| show/focus page     |    H     |     6 hrs      |     0 hrs     |    0 hrs    |
+| CSS styling         |    M     |     5 hrs      |     0 hrs     |    0 hrs    |
+| media queries       |    M     |     3 hrs      |     0 hrs     |    0 hrs    |
+| TOTAL               |          |     3 hrs      |     0 hrs     |    0 hrs    |
 
 <br>
 
