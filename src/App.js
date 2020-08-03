@@ -11,10 +11,10 @@ function App() {
   useEffect(() => {
     const MakeApiCall = async () => {
       const res = await axios(
-        "https://api.themoviedb.org/3/search/tv?api_key=8d021868bbab84ae4f9d16fdc0645e0c&query=star%20trek"
+        "https://api.themoviedb.org/3/search/tv?api_key=8d021868bbab84ae4f9d16fdc0645e0c&query=game%20of%20thrones"
       );
-      updateResults(res.data.results[12]);
-      console.log(res.data.results[12]);
+      updateResults(res.data.results[0]);
+      console.log(res.data.results[0]);
     };
     MakeApiCall();
     console.log(results);

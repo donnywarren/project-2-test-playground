@@ -6,7 +6,7 @@
 
 ### Overview
 
-**TV VIEWER VAULT** is an app for users to research their favorite shows, discover new shows and see what's on today. Users will be able to create accounts and save their favorites for quick access. Additionally, they will be about to update their "vault" with new shows and delete ohters.
+**TV VIEWER VAULT** is an app for users to research their favorite shows, discover new shows and see what's on today. Users will be able to create accounts and save their favorites for quick access. Additionally, they will be able to update their "vault" with new shows and delete others.
 
 <br>
 
@@ -17,12 +17,12 @@
 - Desktop Landing
 - Tablet Landing (flexed by percentage)
 
-[User Home](url)
+[User Home](https://wireframe.cc/pIVFuM)
 
 - User Home
 - Tablet User Home (flexed by percentage)
 
-[Show Focus](url)
+[Show Focus](https://wireframe.cc/bC3VNO)
 
 - Desktop Show Focus
 - Tablet Show Focus (flexed by percentage)
@@ -93,6 +93,7 @@ tv-viewer-vault
       |__ Showfocus.js
 |__ .env
 |__ .gitignore
+|__ assets
 |__ package.json
 |__ package-lock.json
 |__ README.md
@@ -137,6 +138,7 @@ tv-viewer-vault
 - video panel for locally viewing previews from third party websites
 - social network links to share content
 - calender page to display weekly viewing times
+- notes field to save user comments on each item in vault
 
 <br>
 
