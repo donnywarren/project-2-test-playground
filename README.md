@@ -49,12 +49,12 @@
 
 #### Goals
 
-- successfully validate users
-- successfully structure and save signup data
-- retrieve and display search data
-- full CRUD on "vault" data base for individual user
-- create UI that is intuitive and stylish
-- responsive accross all screen sizes
+1. successfully validate users
+2. successfully structure and save signup data
+3. retrieve and display search data
+4. full CRUD on "vault" data base for individual user
+5. create UI that is intuitive and stylish
+6. responsive accross all screen sizes
 
 <br>
 
@@ -134,11 +134,11 @@ tv-viewer-vault
 
 ### Post-MVP
 
-- password/user encryption
-- video panel for locally viewing previews from third party websites
-- social network links to share content
-- calender page to display weekly viewing times
-- notes field to save user comments on each item in vault
+1. password/user encryption
+2. video panel for locally viewing previews from third party websites
+3. social network links to share content
+4. calender page to display weekly viewing times
+5. notes field to save user comments on each item in vault
 
 <br>
 
