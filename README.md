@@ -49,7 +49,7 @@
 
 #### Goals
 
-1. successfully validate users
+1. emulate user validation
 2. successfully structure and save signup data
 3. retrieve and display search data
 4. full CRUD on "vault" data base for individual user
@@ -134,7 +134,7 @@ tv-viewer-vault
 
 ### Post-MVP
 
-1. password/user encryption
+1. password/user encryption and safe storage
 2. video panel for locally viewing previews from third party websites
 3. social network links to share content
 4. calender page to display weekly viewing times
